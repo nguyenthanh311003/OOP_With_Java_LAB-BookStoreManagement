@@ -1,0 +1,2 @@
+B12345 | Book of Thanh                  | 3612.0  | 321        | P12345                         | Available      
+B23456 | Book of Cuong                  | 321.0   | 55         | P23456                         | Available      
